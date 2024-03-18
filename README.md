@@ -1,1 +1,1 @@
-# stacked_bar
+Stacked Bar Plot
